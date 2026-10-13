@@ -55,4 +55,7 @@ Step 2: Logging Into the Wazuh Dashboard
 Using a browser, I accessed the dashboard at:
 
 
+#WAITING NEW COMING#
+
+
 
